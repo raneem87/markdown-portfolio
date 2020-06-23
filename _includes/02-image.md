@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Test Image](https://www.uu.se/digitalAssets/805/c_805646-l_1-k_image.jpg)
