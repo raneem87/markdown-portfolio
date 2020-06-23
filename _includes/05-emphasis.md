@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**32 years old**
+_I like to learn new things_
+*when I was in **Syria** I worked as a **programmer***
